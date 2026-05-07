@@ -1,4 +1,5 @@
 # firstprogram-demo
+
 This is my first Git Repository
 <br>
-Author - Jyoti Yadav
+Author - Jyoti (ncit-college)
